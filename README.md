@@ -15,5 +15,5 @@ datetime: Handling date and time data
 sklearn: Machine learning toolkit
 
 
-## Links
+## Link
 Check these files out in [Google Drive](https://drive.google.com/drive/folders/1BA7iGWuVjST-odohgzc8H_z-tXGc7DCj?usp=sharing) (Google Colab Environment). Feel free to clone and use the model for personal or educational purposes.
